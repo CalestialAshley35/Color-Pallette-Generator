@@ -18,7 +18,7 @@ To use or modify this project, you'll need a basic understanding of HTML, CSS, a
 
 1. **Fork or Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/color-palette-generator.git
+    git clone https://github.com/CalestialAshley35/color-palette-generator.git
     ```
 2. **Navigate to the Project Directory**:
     ```bash
